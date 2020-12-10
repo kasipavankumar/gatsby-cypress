@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "cypress": "^6.0.1",
-    "prettier": "2.2.0",
+    "prettier": "2.2.1",
     "start-server-and-test": "^1.11.5"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
